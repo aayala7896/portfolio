@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Next.js & NextUI Template
 
 This is a template for creating applications using Next.js 13 (app directory) and NextUI (v2).
@@ -38,3 +39,7 @@ npm run dev
 ## License
 
 Licensed under the [MIT license](https://github.com/nextui-org/next-app-template/blob/main/LICENSE).
+=======
+# portfolio
+personal portfolio with projects
+>>>>>>> 1bc0830b3ce7f3926a002d5f4f81f5721134bb07
