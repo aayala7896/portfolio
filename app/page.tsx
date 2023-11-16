@@ -6,7 +6,6 @@ import {Image,Spacer} from "@nextui-org/react";
 import About from '../components/aboutme.jsx';
 import Header  from '../components/header.jsx';
 import Skills from '../components/skills.jsx';
-import "@/styles/globals.css";
 import { Link } from "@nextui-org/link";
 import { Snippet } from "@nextui-org/snippet";
 import { Code } from "@nextui-org/code"
@@ -33,7 +32,7 @@ export default function Home() {
         <div className="p-4">
           <img
 		  	width={200}
-            src="/IMG_3503.jpg"
+            src="/portfolio/IMG_3503.jpg"
             alt="Profile Photo"
             className="rounded-lg shadow-lg"
           />
