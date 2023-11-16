@@ -4,7 +4,7 @@ export const projectsData =[
         technolgy:"Python/Django",
         description1:"Mock-up surf company allowing users to browse, add, & purchase items.",
         description2:"Django Rest API allowed optimization in updating items from the Company.",
-        image:"../bluesurf.png",
+        image:"https://aayala7896.github.io/portfolio//bluesurf.png",
     },
     {
         title:"Multi-Thread Analysis",
@@ -12,14 +12,14 @@ export const projectsData =[
         description1:"lorem ipsum",
         description2:"lorem ipsum",
 
-        image:"../ThreadAnalysis.png",
+        image:"https://aayala7896.github.io/portfolio//ThreadAnalysis.png",
     },
     {
         title:"Debt Manager",
         technolgy:"Python/Django",
         description1:"lorem iipsum",
         description2:"lorem ipsum",
-        image:"../DebtSupervisor.png",
+        image:"https://aayala7896.github.io/portfolio//DebtSupervisor.png",
     },
 
 
