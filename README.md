@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Next.js & NextUI Template
-
-This is a template for creating applications using Next.js 13 (app directory) and NextUI (v2).
-
+# Portfolio- Alex Ayala
 ## Technologies Used
 
 - [Next.js 13](https://nextjs.org/docs/getting-started)
@@ -13,8 +9,8 @@ This is a template for creating applications using Next.js 13 (app directory) an
 - [Framer Motion](https://www.framer.com/motion/)
 - [next-themes](https://github.com/pacocoursey/next-themes)
 
-## How to Use
-
+## Portfolio
+To create a website that highlights projects and skills.
 
 ### Use the template with create-next-app
 
@@ -40,6 +36,5 @@ npm run dev
 
 Licensed under the [MIT license](https://github.com/nextui-org/next-app-template/blob/main/LICENSE).
 =======
-# portfolio
-personal portfolio with projects
+
 >>>>>>> 1bc0830b3ce7f3926a002d5f4f81f5721134bb07
