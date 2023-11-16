@@ -3,7 +3,6 @@ import { title, subtitle } from "@/components/primitives";
 import {Image,Spacer} from "@nextui-org/react";
 import {Divider,Listbox,ListboxItem} from "@nextui-org/react";
 import {Chip} from "@nextui-org/react";
-import "@/styles/globals.css";
 
 
 function Skills(){

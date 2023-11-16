@@ -4,7 +4,6 @@ import { title, subtitle } from "@/components/primitives";
 import {Spacer} from "@nextui-org/react";
 import {Divider} from "@nextui-org/react";
 import Link from 'next/link'
-import "@/styles/globals.css";
 import {Card, CardBody, Image, Button, Progress} from "@nextui-org/react";
 import { projectsData } from '../data/projectData';
 

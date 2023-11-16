@@ -1,5 +1,4 @@
 import React from 'react';
-import "../../styles/globals.css"
 import {Providers} from "../../app/providers";
 import Navbar from "@/components/navbar"
 import { title, subtitle } from "@/components/primitives";

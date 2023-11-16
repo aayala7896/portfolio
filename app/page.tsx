@@ -32,7 +32,7 @@ export default function Home() {
         <div className="p-4">
           <img
 		  	width={200}
-            src="/portfolio/IMG_3503.jpg"
+            src="https://aayala7896.github.io/portfolio/IMG_3503.jpg"
             alt="Profile Photo"
             className="rounded-lg shadow-lg"
           />
