@@ -6,22 +6,9 @@ import {Providers} from "../../app/providers";
 import { Link } from "@nextui-org/link";
 import clsx from "clsx";
 import Navbar from "../../components/navbar"
-export const metadata: Metadata = {
-	title: {
-		default: siteConfig.name,
-		template: `%s - ${siteConfig.name}`,
-	},
-	description: siteConfig.description,
-	themeColor: [
-		{ media: "(prefers-color-scheme: light)", color: "white" },
-		{ media: "(prefers-color-scheme: dark)", color: "black" },
-	],
-	icons: {
-		icon: "/favicon.ico",
-		shortcut: "/favicon-16x16.png",
-		apple: "/apple-touch-icon.png",
-	},
-};
+import Head from 'next/head'
+ 
+
 export default function RootLayout({
 	children,
 }: {
@@ -29,7 +16,7 @@ export default function RootLayout({
 }) {
 	return (
 		<html lang="en" suppressHydrationWarning>
-			<head />
+		
 			<body
 				className={clsx(
 					"min-h-screen bg-background font-sans antialiased",
